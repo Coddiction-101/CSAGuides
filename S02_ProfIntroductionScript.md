@@ -196,3 +196,53 @@ Before **any interview**:
 | Real Example | Makes the answer believable |
 | Growth Mindset | Shows you're actively improving |
 | Team Collaboration | Demonstrates willingness to ask for help when needed |
+
+---
+## 🎤 Script 6: Where Do You See Yourself in 5 Years?
+
+### Suggested Response
+
+> In five years, I see myself growing into a **Senior Customer Support Specialist or a Team Lead** within the support organization.  
+>
+> **Years 1–2:** My focus would be on mastering the Customer Support role, becoming highly proficient with the company's tools and processes, consistently meeting or exceeding KPIs, and maintaining excellent customer satisfaction scores.
+>
+> **Years 2–3:** I would like to move into **Technical Support** or become a **Subject Matter Expert (SME)** for specific product areas. At this stage, I would also enjoy mentoring new team members and sharing knowledge with the team.
+>
+> **Years 4–5:** I aim to step into a **Team Lead or Manager role**, where I can guide a team, help improve support processes, and contribute to strategic decisions that enhance customer experience.
+>
+> Throughout this journey, I plan to **continuously upskill** by learning more about CRM platforms like Zendesk or Salesforce, improving my understanding of the product, and developing leadership skills.
+>
+> Ultimately, I want to **grow with the company and contribute to its long-term success.**
+
+---
+
+### 📝 Practice Guide
+
+| Practice Method | Details |
+|-----------------|---------|
+| Repetitions | Practice 3–4 times daily |
+| Ideal Length | 40–60 seconds |
+| Focus | Speak with confidence and clarity |
+| Tip | Emphasize long-term growth and commitment |
+
+---
+
+### 🎯 Structure of a Strong “5-Year Plan” Answer
+
+| Step | What to Include |
+|-----|------------------|
+| 1 | Start with your long-term goal |
+| 2 | Break growth into stages (1–2, 2–3, 4–5 years) |
+| 3 | Mention learning and upskilling |
+| 4 | Show commitment to growing with the company |
+
+---
+
+### 💡 Why This Answer Works
+
+| Element | What It Demonstrates |
+|--------|----------------------|
+| Career Vision | You have a clear long-term plan |
+| Realistic Growth | Shows step-by-step development |
+| Learning Mindset | Willingness to continuously improve |
+| Loyalty | Interest in growing with the company |
