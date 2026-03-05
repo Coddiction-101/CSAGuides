@@ -133,3 +133,60 @@ Reopen the app afterward.
 #### 2. Clear App Cache
 
 - Settings → Apps → [App Name] → Storage → Clear Cache
+
+#### 3. Update the App
+- Open **App Store / Play Store**
+- Search for **[App Name]**
+- Tap **Update** if available
+
+#### 4. Reinstall the App
+- Delete the app
+- Install again from the store
+- Log back into your account
+
+---
+
+### 💻 Desktop
+
+1. Restart the application  
+2. Check for updates  
+3. Reinstall the application  
+
+---
+
+**Follow-up Question**
+
+> "Which device are you using? I'll provide the exact steps for your device."
+
+---
+
+# 🚨 When to Escalate to Technical Team
+
+Escalate the issue if:
+
+- All standard troubleshooting steps were attempted (**30+ minutes**)
+- Issue requires **backend access**
+- Requires **database changes**
+- There is a **software bug**
+- It's a **security concern**
+- Multiple users are affected
+
+---
+
+# 📤 Escalation Script
+
+> "[Customer Name], I've tried all the standard solutions and it appears this issue requires our technical team's assistance. I'll escalate this with priority status."
+
+**Ticket Details**
+
+- **Ticket Number:** `[12345]`
+- **Assigned To:** Technical Team
+- **Expected Response Time:** `4–24 hours`
+
+> "I'll personally monitor the ticket and keep you updated."
+
+**Optional Closing**
+
+> "In the meantime, is there anything else I can help you with, or a temporary workaround you'd like to try?"
+
+---
