@@ -108,3 +108,45 @@ Before **any interview**:
 5. Fill in the blanks in the script above.
 
 ---
+## 🎤 Script 4: What Are Your Strengths? (3 Strengths with Examples)
+
+### Suggested Response
+
+> I'd say my **three main strengths** are:
+>
+> **First, patience and empathy.** During college, when my classmates struggled with coding assignments, I would sit with them and patiently break down complex problems into simple steps. I never got frustrated even if I had to explain the same concept multiple times because I understand that everyone learns differently.
+>
+> **Second, quick learning ability.** During my BCA program, I had to learn multiple programming languages, database management concepts, and web development technologies within short time frames. For example, I learned **React** in about three weeks to meet a project deadline. This experience showed me that I can quickly adapt to new tools, such as CRM systems or company workflows.
+>
+> **Third, clear communication.** I’m comfortable explaining technical concepts in simple, non-technical language. In many college projects, I was the one who presented our work to professors because I could make complex ideas easy to understand. This ability is especially important in customer support, where many customers may not have a technical background.
+
+---
+
+### 📝 Practice Guide
+
+| Practice Method | Details |
+|-----------------|---------|
+| Repetitions | Practice 3–5 times daily |
+| Ideal Length | 40–60 seconds |
+| Focus | Speak confidently and naturally |
+| Tip | Emphasize the examples to make the answer believable |
+
+---
+
+### 🎯 Structure of a Strong “Strengths” Answer
+
+| Step | What to Do |
+|-----|-------------|
+| 1 | Mention the strength clearly |
+| 2 | Give a real example |
+| 3 | Connect it to the job role |
+
+---
+
+### 💡 Why This Answer Works
+
+| Strength | Why It Matters in Customer Support |
+|---------|------------------------------------|
+| Patience & Empathy | Helps handle frustrated customers calmly |
+| Quick Learning | Adapts fast to tools, products, and processes |
+| Communication | Explains solutions clearly to customers |
