@@ -28,3 +28,13 @@
 | Documentation | Notion, Confluence, Google Docs |
 | Screen Sharing | Zoom, TeamViewer, AnyDesk |
 | Time Tracking | Toggl, Harvest |
+
+---
+
+| Metric | Description | Target |
+|------|-------------|--------|
+| First Response Time (FRT) | How fast you reply to the customer's first message | Under 2 hours for email, under 2 minutes for chat |
+| Average Resolution Time (ART) | Time taken to fully solve a customer's issue | 1 hour – 24 hours depending on complexity |
+| Customer Satisfaction Score (CSAT) | Rating customers give after support interaction | Above 4.5 / 5 or 90%+ |
+| Ticket Volume | Number of tickets you handle daily | 30–50 emails/day or 80–100 chats/day |
+| First Contact Resolution (FCR) | Percentage of issues solved in the first interaction | Above 70% |
