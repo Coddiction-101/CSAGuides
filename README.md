@@ -22,5 +22,5 @@
 11. [Daily Practice Exercises](https://github.com/Coddiction-101/CSAGuides/blob/main/S11_DailyPractice.md)
 12. [Common Mistakes to Avoid](https://github.com/Coddiction-101/CSAGuides/blob/main/S12_CommonMistakes.md)
 13. [Growth & Career Path Discussion](https://github.com/Coddiction-101/CSAGuides/blob/main/S13_Growth%26CareerPath.md)
-14. [Questions to Ask Employers](#14-questions-to-ask-employers)
+14. [Questions to Ask Employers](https://github.com/Coddiction-101/CSAGuides/blob/main/S14_EmployeeQs.md)
 15. [30-Day Skill Building Plan](#15-30-day-skill-building-plan)
