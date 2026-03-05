@@ -23,4 +23,4 @@
 12. [Common Mistakes to Avoid](https://github.com/Coddiction-101/CSAGuides/blob/main/S12_CommonMistakes.md)
 13. [Growth & Career Path Discussion](https://github.com/Coddiction-101/CSAGuides/blob/main/S13_Growth%26CareerPath.md)
 14. [Questions to Ask Employers](https://github.com/Coddiction-101/CSAGuides/blob/main/S14_EmployeeQs.md)
-15. [30-Day Skill Building Plan](#15-30-day-skill-building-plan)
+15. [30-Day Skill Building Plan](https://github.com/Coddiction-101/CSAGuides/blob/main/S15_30dSkillBuildingPlan.md)
