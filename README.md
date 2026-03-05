@@ -15,7 +15,7 @@
 4. [Salary Negotiation - Word-for-Word Scripts](https://github.com/Coddiction-101/CSAGuides/blob/main/S04_SalaryNego.md)
 5. [Customer Communication Scripts - 20 Common Scenarios](https://github.com/Coddiction-101/CSAGuides/blob/main/S05_CustomerCommunication.md)
 6. [Email Writing Templates](https://github.com/Coddiction-101/CSAGuides/blob/main/S06_EmailWriting.md)
-7. [Chat Support Scripts]()
+7. [Chat Support Scripts](https://github.com/Coddiction-101/CSAGuides/blob/main/S07_ChatSupports.md)
 8. [Phone Support Scripts](https://github.com/Coddiction-101/CSAGuides/blob/main/S08_PhoneSupport.md)
 9. [Difficult Customer Handling](#9-difficult-customer-handling)
 10. [Technical Troubleshooting Scripts](#10-technical-troubleshooting-scripts)
