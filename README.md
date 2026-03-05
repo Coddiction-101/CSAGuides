@@ -20,7 +20,7 @@
 9. [Difficult Customer Handling](https://github.com/Coddiction-101/CSAGuides/blob/main/S09_DiffucultCustomerHandling.md)
 10. [Technical Troubleshooting Scripts](https://github.com/Coddiction-101/CSAGuides/blob/main/S10_TechnicalTroubleshooting.md)
 11. [Daily Practice Exercises](https://github.com/Coddiction-101/CSAGuides/blob/main/S11_DailyPractice.md)
-12. [Common Mistakes to Avoid](#12-common-mistakes-to-avoid)
+12. [Common Mistakes to Avoid](https://github.com/Coddiction-101/CSAGuides/blob/main/S12_CommonMistakes.md)
 13. [Growth & Career Path Discussion](#13-growth--career-path-discussion)
 14. [Questions to Ask Employers](#14-questions-to-ask-employers)
 15. [30-Day Skill Building Plan](#15-30-day-skill-building-plan)
