@@ -10,7 +10,7 @@
 ## 📋 TABLE OF CONTENTS
 
 1. [Understanding the Role - What You'll Actually Do](https://github.com/Coddiction-101/CSAGuides/blob/main/S01_UnderstandingTheRole.md)
-2. [Your Professional Introduction Scripts](#2-your-professional-introduction-scripts)
+2. [Your Professional Introduction Scripts](https://github.com/Coddiction-101/CSAGuides/blob/main/S02_ProfIntroductionScript.md)
 3. [HR Screening Call - Exact Scripts](#3-hr-screening-call---exact-scripts)
 4. [Salary Negotiation - Word-for-Word Scripts](#4-salary-negotiation---word-for-word-scripts)
 5. [Customer Communication Scripts - 20 Common Scenarios](#5-customer-communication-scripts---20-common-scenarios)
