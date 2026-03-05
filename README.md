@@ -14,7 +14,7 @@
 3. [HR Screening Call - Exact Scripts](https://github.com/Coddiction-101/CSAGuides/blob/main/S03_HrScreeningCall.md)
 4. [Salary Negotiation - Word-for-Word Scripts](https://github.com/Coddiction-101/CSAGuides/blob/main/S04_SalaryNego.md)
 5. [Customer Communication Scripts - 20 Common Scenarios](https://github.com/Coddiction-101/CSAGuides/blob/main/S05_CustomerCommunication.md)
-6. [Email Writing Templates](#6-email-writing-templates)
+6. [Email Writing Templates](https://github.com/Coddiction-101/CSAGuides/blob/main/S06_EmailWriting.md)
 7. [Chat Support Scripts](#7-chat-support-scripts)
 8. [Phone Support Scripts](#8-phone-support-scripts)
 9. [Difficult Customer Handling](#9-difficult-customer-handling)
