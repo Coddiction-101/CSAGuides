@@ -98,3 +98,56 @@
 | Skills | Academic knowledge relevant to the role |
 | Learning Ability | Fast adaptation to tools and processes |
 | Attitude | Positive mindset and willingness to grow |
+
+---
+
+## 📞 HR Question 3: What Do You Know About Customer Support?
+
+### Suggested Response
+
+> Customer Support is the **frontline connection between a company and its customers**. The main responsibility is to help customers solve problems, answer their questions, and ensure they have a **positive experience with the product or service**.
+>
+> From my research, I understand that customer support typically involves:
+>
+> - Responding to customer queries through **email, chat, or phone**
+> - **Troubleshooting technical or non-technical issues**
+> - **Documenting customer problems** so product or engineering teams can improve the product
+> - **Escalating complex issues** to specialized technical teams when needed
+> - **Following up with customers** to make sure their issue is fully resolved
+> - Maintaining important performance metrics such as **response time, resolution time, and customer satisfaction scores**
+>
+> I also understand that modern customer support teams use **CRM platforms like Zendesk or Freshdesk**, and strong communication skills are essential to explain solutions clearly to customers.
+>
+> Overall, customer support plays a very important role in **customer retention and brand reputation**, and I'm excited to learn the practical aspects of it and grow in this field.
+
+---
+
+## 📝 Practice Guide
+
+| Practice Method | Details |
+|-----------------|---------|
+| Repetitions | Practice 3–4 times daily |
+| Ideal Length | 40–60 seconds |
+| Focus | Clarity and structured explanation |
+| Tip | Pause slightly when listing responsibilities |
+
+---
+
+## 🎯 Key Points This Answer Covers
+
+| Concept | Why It Matters |
+|--------|----------------|
+| Role Understanding | Shows you know what the job actually involves |
+| Responsibilities | Demonstrates preparation for the role |
+| Tools Knowledge | Shows awareness of CRM platforms |
+| Business Impact | Highlights importance for customer retention |
+
+---
+
+## 💡 Why This Answer Works
+
+| Element | What It Demonstrates |
+|--------|----------------------|
+| Research | You understand the role before applying |
+| Awareness | You know the tools and responsibilities |
+| Professional Mindset | You see the role as important for the business |
