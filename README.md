@@ -17,7 +17,7 @@
 6. [Email Writing Templates](https://github.com/Coddiction-101/CSAGuides/blob/main/S06_EmailWriting.md)
 7. [Chat Support Scripts](https://github.com/Coddiction-101/CSAGuides/blob/main/S07_ChatSupports.md)
 8. [Phone Support Scripts](https://github.com/Coddiction-101/CSAGuides/blob/main/S08_PhoneSupport.md)
-9. [Difficult Customer Handling](#9-difficult-customer-handling)
+9. [Difficult Customer Handling](https://github.com/Coddiction-101/CSAGuides/blob/main/S09_DiffucultCustomerHandling.md)
 10. [Technical Troubleshooting Scripts](#10-technical-troubleshooting-scripts)
 11. [Daily Practice Exercises](#11-daily-practice-exercises)
 12. [Common Mistakes to Avoid](#12-common-mistakes-to-avoid)
