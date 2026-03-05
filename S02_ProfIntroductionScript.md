@@ -150,3 +150,49 @@ Before **any interview**:
 | Patience & Empathy | Helps handle frustrated customers calmly |
 | Quick Learning | Adapts fast to tools, products, and processes |
 | Communication | Explains solutions clearly to customers |
+
+---
+## 🎤 Script 5: What Are Your Weaknesses? (Honest but Shows Improvement)
+
+### Suggested Response
+
+> I'd say one area I'm actively improving is that I sometimes spend too much time trying to solve a problem on my own before asking for help.  
+>
+> For example, during a college project, I once spent about **three hours debugging a piece of code**, when I could have asked a senior student and solved it in around **30 minutes**.
+>
+> Since then, I've been working on improving this habit. Now I **set a time limit for myself**—if I can't solve something within **20–30 minutes**, I reach out for guidance or discuss it with someone who has more experience.
+>
+> I understand that in a **customer support environment**, asking for help or escalating issues at the right time is actually important. It ensures that **customers get faster solutions**, and it also helps me **learn more efficiently from experienced team members**.
+
+---
+
+### 📝 Practice Guide
+
+| Practice Method | Details |
+|-----------------|---------|
+| Repetition | Practice 3–4 times daily |
+| Ideal Length | 30–40 seconds |
+| Tone | Honest and calm |
+| Tip | Focus on improvement, not just the weakness |
+
+---
+
+### 🎯 Structure of a Good “Weakness” Answer
+
+| Step | What to Say |
+|-----|-------------|
+| 1 | Mention a real but safe weakness |
+| 2 | Give a short example |
+| 3 | Explain what you learned |
+| 4 | Show how you're improving |
+
+---
+
+### 💡 Why This Answer Works
+
+| Element | What It Shows |
+|--------|---------------|
+| Self-awareness | You recognize your own improvement areas |
+| Real Example | Makes the answer believable |
+| Growth Mindset | Shows you're actively improving |
+| Team Collaboration | Demonstrates willingness to ask for help when needed |
