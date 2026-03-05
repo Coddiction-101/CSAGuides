@@ -16,3 +16,15 @@
 | 5:00 PM | Document issues, update knowledge base |
 | 5:30 PM | End-of-day report, handover to evening shift |
 | 6:00 PM | Logout |
+
+---
+
+
+| Category | Tools |
+|----------|-------|
+| CRM Software | Zendesk, Freshdesk, Salesforce, or company's custom tool |
+| Communication | Slack, Microsoft Teams, Email (Gmail / Outlook) |
+| Ticketing | Jira, ServiceNow |
+| Documentation | Notion, Confluence, Google Docs |
+| Screen Sharing | Zoom, TeamViewer, AnyDesk |
+| Time Tracking | Toggl, Harvest |
